@@ -1,0 +1,6 @@
+# 2024usdt支付通道源码
+
+系统可对接外贸商城的用户<br>1月正式开发纯usdt充提接口<br>3月增加平台承兑商模式以及接口<br>系统带有2种支付接口，一种纯USDT的支付接口，别的平台可以接入 实现USDT币的充值 提币 一种承兑商的模式，别的平台接入 实现人民币充值（和交易员交易）<br>本系统是纯开源，不涉及任何加密代码，example.com。拍之前请联系卖家索要演示地址和账号，进行相关测试，代码是否是你需要的。测试好后在进行拍下，演示什么样 给你的就是什么样。钱包和网站部署好之后，钱包未同步完成的情况下，也是可以正常生成USDT的地址的，能正常生成USDT充值地址就代表网站和钱包对接正常，后续只需耐心等待钱包同步完成后方可使用其他功能，例如充值币 提币等。<br>代码具有复制性，所以请看好 测试好在拍，只要卖家发送了代码后并且提供安装和部署服务后 就不能在退款。<br>另usdt钱包和网站对接，不能等到同步完成后在确认收货，在安装好网站后，能正常生成地址视为卖家的服务已经完结。需在3天内确认收货<br>二次开发功能定制均需另外付费<br>拍下视为默认同意该条款内容。<br>本版本一直有更新修复，已经购买的 都支持免费升级更新。购买盗版的 请注意安全问题，不要贪小失大。支付网站安全<br>更多功能以及演示网站.......请咨询客服3567776728，咨询前请告知从网看到的信息，谢谢！更多跟新的一些小功能就不一一介绍了可定制可开发<br>免责申明：<br>①源码仅供休闲娱乐，研究学习<br>②请勿用于商业及非法用途<br>③如产生法律纠纷与本人无关<br>④您使用本源码起，将视为您已经接受本申明<br>演示地址：http://example.com/<br>后台地址：http://example.com/admin 账号：test 密码：123456<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/2YaLW" style="color: red;">https://mega-file.org/2YaLW</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
